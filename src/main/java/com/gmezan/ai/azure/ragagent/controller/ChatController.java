@@ -3,7 +3,6 @@ package com.gmezan.ai.azure.ragagent.controller;
 import com.gmezan.ai.azure.ragagent.agent.SearchAgent;
 import com.gmezan.ai.azure.ragagent.model.web.ChatRequest;
 import com.gmezan.ai.azure.ragagent.model.web.ResponseModel;
-import com.gmezan.ai.azure.ragagent.service.ChatService;
 import com.microsoft.semantickernel.services.KernelContent;
 import com.microsoft.semantickernel.services.chatcompletion.AuthorRole;
 import com.microsoft.semantickernel.services.chatcompletion.ChatHistory;

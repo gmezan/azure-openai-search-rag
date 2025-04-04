@@ -9,11 +9,11 @@ export type ExampleModel = {
 
 const EXAMPLES: ExampleModel[] = [
     {
-        text: "What is included in my Northwind Health Plus plan that is not in standard?",
-        value: "What is included in my Northwind Health Plus plan that is not in standard?"
+        text: "What are azure exams?",
+        value: "What are azure exams?"
     },
-    { text: "What happens in a performance review?", value: "What happens in a performance review?" },
-    { text: "What does a Product Manager do?", value: "What does a Product Manager do?" }
+    { text: "What score do I need to pass each exam?", value: "What score do I need to pass each exam?" },
+    { text: "What topics should I study for Azure DevOps?", value: "What topics should I study for Azure DevOps?" }
 ];
 
 interface Props {

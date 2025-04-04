@@ -21,7 +21,7 @@ public class SearchAgent {
 
 	private static final String INITIAL_PROMPT = """
 					You are an AI assistant that helps users learn from the information
-					found in the source material.
+					found in the source material. You must be brief and precise
 			""";
 	private static final String GROUNDED_PROMPT = """
     Answer the user question using only the sources provided below.
