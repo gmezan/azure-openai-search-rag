@@ -86,6 +86,8 @@ graph TD
 
 https://github.com/user-attachments/assets/c9db6367-1e19-444e-b6e1-a3805ed72f2c
 
-
-
-
+### References:
+- https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline
+- https://github.com/Azure-Samples/azure-search-openai-demo-java
+- https://learn.microsoft.com/en-us/azure/search/semantic-search-overview
+- https://github.com/Azure-Samples/azure-search-python-samples/blob/main/Tutorial-RAG/Tutorial-rag.ipynb
