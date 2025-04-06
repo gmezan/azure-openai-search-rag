@@ -82,5 +82,10 @@ graph TD
 1. Start Chatting
 
     Access frontend at http://localhost:5173 and ask questions like: "Explain Azure Virtual Network peering requirements for AZ-104"
+   
+
+https://github.com/user-attachments/assets/c9db6367-1e19-444e-b6e1-a3805ed72f2c
+
+
 
 
