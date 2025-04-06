@@ -21,7 +21,7 @@ graph TD
     B <-->|API call| C[Backend API]
     C -->|Search| D[Azure AI Search Index]
     C <-->|Generate answer| E[Azure OpenAI]
-    F -->|Generate Emebeddings| E
+    F -->|Generate Embeddings| E
     F[Azure Search Indexer] -->|Populate data| D
     F -->|Get Data| G[Blob Storage]
     
